@@ -1,2 +1,19 @@
-# Baduk_iGo_WeiQi
-Oldest board game continuously played to the present day. Despite its relatively simple rules, Go is extremely complex.
+# Go_Baduk_WeiQi
+
+Baduk (Korean), Go (Japanese) or WeiQi (Chinese).
+Invented in China more than 2,500 years ago. One of the four essential arts  of the cultured aristocratic scholars.
+It is considered the oldest board game continuously played to the present day, with over 46 million players worldwide.
+Despite its simple rules, Go is very complex, with large scope for play, long games and many alternatives per move.
+I first learned about it from popular manga Hikaru no Go.
+
+Game Features:
+The goban (board) has 3 sizes. 
+The game moves are numbered.
+Games and puzzles save/load their original board size.
+Games also save/load the handicap if any.
+Games can be reviewed with previous/next move controls.
+You can load a random game/puzzle matchinig your criteria.
+You can update info about the loaded game/puzzle.
+If a chain dies it is automatically removed.
+Clicking End Game will allow you to click on territory or enemy stones to claim them.
+Puzzles can be set up quickly.
