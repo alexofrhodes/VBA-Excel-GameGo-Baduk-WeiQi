@@ -1,4 +1,4 @@
-# Go_Baduk_WeiQi
+# Go or Baduk or WeiQi
 https://youtu.be/fqp9TPUAHZQ
 
 Baduk (Korean), Go (Japanese) or WeiQi (Chinese).
